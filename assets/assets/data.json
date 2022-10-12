@@ -1,0 +1,176 @@
+{ "shop": { "products": [{
+    "id": 1,
+    "category":"Bread",
+    "name": "Croissant",
+    "description":"A croissant is a laminated, yeast-leavened bakery product that contains dough/roll-in fat layers to create a flaky, crispy texture.",
+    "price":1.89,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/croissant.jpg"
+},{
+    "id": 2,
+    "category":"Bread",
+    "name": "Baguette",
+    "description":"A baguette is a long, thin type of bread of French origin that is commonly made from basic lean dough. It is distinguishable by its length and crisp crust.",
+    "price":0.99,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/baguette.png"
+},{
+    "id": 3,
+    "category":"Fruits",
+    "name": "Banana",
+    "description":"A banana is a curved, yellow fruit with a thick skin and soft sweet flesh. If you eat a banana every day for breakfast, your roommate might nickname you 'the monkey'.",
+    "price":2.49,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/BANANAS.jpg"
+},{
+    "id": 4,
+    "category":"Fruits",
+    "name": "Blueberries",
+    "description":"Blueberries are small round berries about 0.2 to 0.6 inches across. Their color can range from blue to purple. They are often eaten fresh but can also be enjoyed frozen, added to a wide variety of baked goods, or juiced or pureed.",
+    "price":4.98,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/bluberry.jpg"
+},{
+    "id": 5,
+    "category":"Vegetables",
+    "name": "Lettuce",
+    "description":"Lettuce is an annual plant of the family Asteraceae. It is most often grown as a leaf vegetable, but sometimes for its stem and seeds.",
+    "price":3.43,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/lettuce.png"
+},{
+    "id": 6,
+    "category":"Vegetables",
+    "name": "Broccoli",
+    "description":"Broccoli is an edible green plant in the cabbage family whose large flowering head, stalk and small associated leaves are eaten as a vegetable.",
+    "price":2.95,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/broccoli.jpg"
+},{
+    "id": 7,
+    "category":"Meat",
+    "name": "Chicken Thighs",
+    "description":"Chicken thighs are the best cut of chicken. Chicken thighs are a fattier cut of meat, which means they're going to have more intense, rich flavor than their white meat counterparts.",
+    "price":2.59,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/chicken.png"
+},{
+    "id": 8,
+    "category":"Meat",
+    "name": "Beef Steak",
+    "description":"Beef can be prepared in various ways; cuts are often used for steak, which can be cooked to varying degrees of doneness, while trimmings are often ground or minced, as found in most hamburgers. Beef contains protein, iron, and vitamin B12.",
+    "price":19.99,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/steak.png"
+},{
+    "id": 9,
+    "category":"Drinks",
+    "name": "Coca-Cola",
+    "description":"Coca-Cola is distinctive, energizing, and refreshing. It has been prepared with natural flavors and no additional preservatives since 1886. Since 1886, the Coca-Cola brand has stood for life and is always present when people share great moments.",
+    "price":1.85,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/coke.jpg"
+},{
+    "id": 10,
+    "category":"Drinks",
+    "name": "Sprite",
+    "description":"Crisp, refreshing and clean-tasting, Sprite is a lemon and lime-flavoured soft drink. It first hit shop shelves back in 1961 and today it's sold in more than 190 countries.",
+    "price":2.25,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/sprite.png"
+},{
+    "id": 11,
+    "category":"Bread",
+    "name": "White Bread",
+    "description":"White bread typically refers to breads made from wheat flour from which the bran and the germ layers have been removed from the whole wheatberry as part of the flour grinding or milling process, producing a light-colored flour.",
+    "price": 1.95,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/white.png"
+},{
+    "id": 12,
+    "category":"Bread",
+    "name": "Rye Bread",
+    "description":"Rye bread is a type of bread made with various proportions of flour from rye grain. It can be light or dark in color, depending on the type of flour used and the addition of coloring agents, and is typically denser than bread made from wheat flour.",
+    "price": 4.16,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/rye.png"
+},{
+    "id": 13,
+    "category":"Bread",
+    "name": "Sour Dough",
+    "description":"Sourdough is naturally leavened bread, which means it doesn't use commercial yeast to rise. Instead, it uses a 'starter' a fermented flour and water mixture that contains wild yeast and good bacteria – to rise. This also produces the tangy flavour and slightly chewy texture you'll find in sourdough.",
+    "price": 6.11,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/sourdough.png"
+},{
+    "id": 14,
+    "category":"Vegetables",
+    "name": "Bok Choy",
+    "description":"Bok choy, pak choi or pok choi is a type of Chinese cabbage, used as food. Chinensis varieties do not form heads and have green leaf blades with lighter bulbous bottoms instead, forming a cluster reminiscent of mustard greens.",
+    "price": 3.73,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/bokchoy.png"
+},{
+    "id": 15,
+    "category":"Vegetables",
+    "name": "Carrot",
+    "description":"The carrot is a root vegetable, typically orange in color, though purple, black, red, white, and yellow cultivars exist, all of which are domesticated forms of the wild carrot, Daucus carota, native to Europe and Southwestern Asia.",
+    "price": 1.32,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/carrot.png"
+},{
+    "id": 16,
+    "category":"Vegetables",
+    "name": "Spinach",
+    "description":"Spinach is a leafy green flowering plant native to central and western Asia. It is of the order Caryophyllales, family Amaranthaceae, subfamily Chenopodioideae. Its leaves are a common edible vegetable consumed either fresh, or after storage using preservation techniques by canning, freezing, or dehydration.",
+    "price": 7.23,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/spinach.png"
+},{
+    "id": 17,
+    "category":"Fruits",
+    "name": "Strawberry",
+    "description":"A strawberry is both a low-growing, flowering plant and also the name of the fruit that it produces. Strawberries are soft, sweet, bright red berries. They're also delicious. Strawberries have tiny edible seeds, which grow all over their surface. When ripe, strawberries smell wonderful and taste even better.",
+    "price": 6.53,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/strawberry.png"
+},{
+    "id": 18,
+    "category":"Fruits",
+    "name": "Grape",
+    "description":"Grapes are fleshy, rounded fruits that grow in clusters made up of many fruits of greenish, yellowish or purple skin. The pulp is juicy and sweet, and it contain several seeds or pips. It is a well-known fruit; it is eaten raw, although it is mainly used for making wine.",
+    "price": 4.32,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/grape.png"
+},{
+    "id": 19,
+    "category":"Fruits",
+    "name": "Cantaloupe",
+    "description":"A cantaloupe is an edible member of the gourd family known for its orange, sweet flesh and hard, scaly outer rind. Its scientific name is Cucumis melo cantalupensis and is sold mainly in Europe. A cantaloupe is also a type of muskmelon, with pale orange flesh and a rough, reticulated rind.",
+    "price": 8.12,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/melon.png"
+},{
+    "id": 20,
+    "category":"Meat",
+    "name": "Meatballs",
+    "description":"A meatball is ground meat rolled into a ball, sometimes along with other ingredients, such as bread crumbs, minced onion, eggs, butter, and seasoning. Meatballs are cooked by frying, baking, steaming, or braising in sauce. There are many types of meatballs using different types of meats and spices.",
+    "price": 9.61,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/meatball.png"
+},{
+    "id": 21,
+    "category":"Meat",
+    "name": "Pork Belly",
+    "description":"Pork belly or belly pork is a boneless and fatty cut of meat from the belly of a pig. Pork belly is particularly popular in Hispanic, Chinese, Danish, Norwegian, Korean, Thai and Filipino cuisine.",
+    "price": 7.99,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/pork.png"
+},{
+    "id": 22,
+    "category":"Meat",
+    "name": "Kebab",
+    "description":"A doner kebab is a popular take-away food consisting of thin slices cut from a cylindrical block of minced and seasoned meat (beef, lamb or chicken) grilled on a vertical, rotating spit and eaten on unleavened bread with fresh salad and sauce.",
+    "price": 30.54,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/kebab.png"
+},{
+    "id": 23,
+    "category":"Drinks",
+    "name": "Pepsi",
+    "description":"Pepsi is a carbonated soft drink manufactured by PepsiCo. Originally created and developed in 1893 by Caleb Bradham and introduced as Brad's Drink, it was renamed as Pepsi-Cola in 1898, and then shortened to Pepsi in 1961.",
+    "price": 1.99,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/pepsi.png"
+},{
+    "id": 24,
+    "category":"Drinks",
+    "name": "Coffee",
+    "description":"Coffee is a drink prepared from roasted coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans, primarily due to its caffeine content. It is the most popular hot drink in the world. Seeds of the Coffea plant's fruits are separated to produce unroasted green coffee beans.",
+    "price": 3.22,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/coffee.png"
+},{
+    "id": 25,
+    "category":"Drinks",
+    "name": "Water",
+    "description":"Bottled water is drinking water (e.g., well water, distilled water, mineral water, or spring water) packaged in plastic or glass water bottles. Bottled water may be carbonated or not. Sizes range from small single serving bottles to large carboys for water coolers.",
+    "price": 1.42,
+    "image":"https://raw.githubusercontent.com/mckp0/dad-project-2/main/src/water.png"
+}] } }
